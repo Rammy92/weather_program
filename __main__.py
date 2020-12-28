@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 from weatherutils.write_to_file import File
 import time
 

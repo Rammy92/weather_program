@@ -1,0 +1,8 @@
+[Unit]
+Description=Write weather to fil weather
+
+[Service]
+ExecStart=/usr/bin/python3.8 /home/rammy/weather_program/__main__.py
+
+[Install]
+WantedBy=multi-user.target

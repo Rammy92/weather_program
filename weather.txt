@@ -1,206 +1,124 @@
-2020-12-25
-clear sky
--1.42020-12-27
-light snow
-0.72020-12-27
-light snow
-0.72020-12-27
-light snow
-0.7
-2020-12-27
-light snow
-0.7
-den 27 dec 2020 23:40:24
 
-light snow
-0.8
-
-den 27 dec 2020 23:41:03
-
-light snow
-0.8
-
-den 27 dec 2020 23:41:44
-
-light snow
-0.8
-
-den 27 dec 2020 23:41:57
-
-light snow
-0.8
-
-den 27 dec 2020 23:42:21
-
-light snow
-0.8
-
-den 27 dec 2020 23:43:47
-
-light snow
-0.8
-den 27 dec 2020 23:44:39
-
-light snow
-0.8 celsius
-den 27 dec 2020 23:44:51
-
-light snow
-0.8 celsius
-den 27 dec 2020 23:45:43
-light snow
-0.8 celsius
-den 27 dec 2020 23:45:58
-light snow
-0.8 celsius
-
-den 27 dec 2020 23:46:29
-light snow
-0.8 celsius
-den 27 dec 2020 23:46:41
-light snow
-0.8 celsius
-den 27 dec 2020 23:46:52
-light snow
-0.8 celsiusden 27 dec 2020 23:47:42
-light snow
-0.8 celsius
-den 27 dec 2020 23:47:48
-light snow
-0.8 celsius
-den 27 dec 2020 23:48:14
-light snow
-0.8 celsius
-den 27 dec 2020 23:49:45
- + 
-        snow  
-        0.7  " celsius"  den 27 dec 2020 23:49:57
- 
-        snow  
-        0.7  " celsius"  
-        den 27 dec 2020 23:50:24
- 
-        snow  
-        0.7  " celsius"  
-        {self.date} 
-        {self.weather}  
-        {self.temp}  " celsius"  
-        den 27 dec 2020 23:51:03
- 
-        snow  
-        0.7  " celsius"  
-        self.date 
-        snow  
-        0.7  " celsius"  
-        self.date
-        snow  
-        0.7  " celsius"  
-        den 27 dec 2020 23:52:14
-
-        snow  
-        0.7  " celsius"  
-        den 27 dec 2020 23:52:18
-
-        snow  
-        0.7  " celsius"  
-        den 27 dec 2020 23:52:41
-snow  
-        0.7  " celsius"  
-        den 27 dec 2020 23:52:52
-
-        snow  
-        0.7  " celsius"  
-        den 27 dec 2020 23:53:04
-
-        snow  
-        0.7  " celsius"  
-        
-        den 27 dec 2020 23:53:07
-
-        snow  
-        0.7  " celsius"  
-        
-        den 27 dec 2020 23:53:25
-
-        snow  
-        0.7 celsius
-        den 27 dec 2020 23:55:38
-snow0.7 celsiusden 27 dec 2020 23:55:56
-snow
-0.7 celsiusden 27 dec 2020 23:56:12
-snow
-0.7 celsius
-den 27 dec 2020 23:56:17
-snow
-0.7 celsius
-den 27 dec 2020 23:56:24
-snow
-0.7 celsius
-
-den 27 dec 2020 23:56:52
-snow
-0.7 celsius
-
-den 27 dec 2020 23:56:55
-snow
-0.7 celsius
-
-den 27 dec 2020 23:57:07
-snow
-0.7 celsius
-
-den 27 dec 2020 23:57:28
-snow
-0.7 celsius
-
-den 27 dec 2020 23:59:53
-It's snow outside.
-The tempreture is0.4 celsius
-
-den 28 dec 2020 00:00:03
-It's snow outside.
-The tempreture is 0.4 celsius
-
-den 28 dec 2020 00:01:21
-It's snow outside.
-outside temperature 0.4 celsius
-
-den 28 dec 2020 00:02:03
-It's snow outside.
-Outside temperature 0.4 celsius
-
-den 28 dec 2020 00:02:14
-It's snow outside.
-Outside temperature 0.4 celsius
-
-den 28 dec 2020 00:02:28
-It's snow outside.
-Outside temperature 0 celsius
-
-den 28 dec 2020 00:03:16
-It's snow outside.
-Outside temperature 0 celsius
-
-den 28 dec 2020 00:28:00
-It's light snow outside.
-Outside temperature 0 celsius
-
-den 28 dec 2020 00:31:34
-It's light snow outside.
-Outside temperature 0 celsius
-
-den 28 dec 2020 00:48:28
-It's light snow outside.
-Outside temperature 0 celsius
-
-den 28 dec 2020 08:10:23
-It's light snow outside.
+mån 28 dec 2020 08:54:14 CET
+It's mist outside.
 Outside temperature 1 celsius
 
-den 28 dec 2020 08:14:34
+mån 28 dec 2020 08:57:42 CET
 It's light snow outside.
-Outside temperature 1 celsius
+Outside temperature 2 celsius.
 
-den 28 dec 2020 08:16:03
+mån 28 dec 2020 08:57:43 CET
 It's light snow outside.
-Outside temperature 1 celsius
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:44 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:45 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:46 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:47 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:48 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:49 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:50 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:51 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:52 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:53 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:54 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:55 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:56 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:57 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:58 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:57:59 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:58:00 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:58:01 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:58:02 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:58:03 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:58:04 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:58:05 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 08:58:06 CET
+It's light snow outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 10:39:00 CET
+It's overcast clouds outside.
+Outside temperature 2 celsius.
+
+mån 28 dec 2020 11:46:45 CET
+It's light rain outside.
+Outside temperature 3 celsius.
+
+mån 28 dec 2020 12:26:08 CET
+It's light rain outside.
+Outside temperature 3 celsius.
+
+mån 28 dec 2020 12:32:55 CET
+It's light rain outside.
+Outside temperature 3 celsius.
+
+mån 28 dec 2020 12:33:31 CET
+It's light rain outside.
+Outside temperature 3 celsius.

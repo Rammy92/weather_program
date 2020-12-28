@@ -10,7 +10,7 @@ class File():
         self.temp = weather.temp_float_to_string()
 
     def write_to_file(self):
-        my_file = open("c:\Projects\\weather\\" + "weather.txt", "a+")
-        my_file.write("\n" + self.date + "It's " + self.weather + " outside." "\n" + "Outside temperature " + self.temp + " celsius" + "\n" )
+        my_file = open("/home/rammy/weather_program/weather.txt", "a+")
+        my_file.write("\n" + self.date + "It's " + self.weather + " outside." "\n" + "Outside temperature " + self.temp + " celsius." + "\n" )
         
 
