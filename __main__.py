@@ -1,5 +1,7 @@
 from weatherutils.write_to_file import File
+import time
 
-
-a = File()
-b = a.write_to_file()
+while True:
+    file = File()
+    run = file.write_to_file()
+    time.sleep(60*60*60*24)
