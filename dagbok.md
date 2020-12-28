@@ -15,5 +15,16 @@ Sen skapade jag en fil som innehåller en funktion som skriver in informationen 
 
 I main filen körde jag programmet men då funkade programmet inte. Den sa att den inte kunde hitta fil som innehåller date. Problemet var att jag inte skrev från vilken mapp jag ville importera filen. Programmet funkar!
 Testade programmet i Windows och i Linux. Filen skapades och informationen skrevs i den!
+
+
+Tjänster i Linux
+Systemlog
+Cups 
+Ntp
+Kudzu upptäcker hårdvara som är ni eller modifierad
+httpd tillhandahåller en Apache-webbserver 
+smtp skickar och tar emot e-post
+cron som används för att utföra schemalagda uppgifter
+gpm som stöder musfunktionalitet
 	
 
